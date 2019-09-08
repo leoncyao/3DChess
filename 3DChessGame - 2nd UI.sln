@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DChessGame - 2nd UI", "3DChessGame - 2nd UI.csproj", "{4362A533-DB71-40BA-8116-BFC59886FADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4362A533-DB71-40BA-8116-BFC59886FADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4362A533-DB71-40BA-8116-BFC59886FADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4362A533-DB71-40BA-8116-BFC59886FADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4362A533-DB71-40BA-8116-BFC59886FADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

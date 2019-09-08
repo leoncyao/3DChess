@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/leony/Google Drive/Miscellaneous/UnityProjects/3D_BBTAM/Assets/testscene1.unity
+  isLoaded: 1
+  isActive: 1

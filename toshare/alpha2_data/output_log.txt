@@ -1,0 +1,103 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7254
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\leony\Google Drive - leoncyao\3DChessGame - 2nd UI\ToShare\Alpha2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.445135 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2658 -> priority: 1 
+HIT ZY
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-1 2 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-1 2 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-1 2 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+is this running
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HIT ZY
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-1 1 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0 1 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0 1 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0 0 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+the selected chessPiece is a MyPawnVertical at 001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0 5 -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+HIT ZY
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0 5 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0 5 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0 0 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+moved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<RI.Hid> Failed to create device file:
+ 20 The process cannot access the file because it is being used by another process.
+
+ 
+(Filename:  Line: 54)
+
