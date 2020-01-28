@@ -29,6 +29,7 @@ public class Server : MonoBehaviour {
 
             StartListening();
             serverStarted = true;
+            Debug.Log("I am listening on port " + port);
         }
         catch (Exception e)
         {
@@ -141,7 +142,7 @@ public class Server : MonoBehaviour {
     // Server Read
     private void OnIncomingData(ServerClient c, string data)
     {
-        Debug.Log("The data that the Server got was: " + data);
+        //Debug.Log("The data that the Server got was: " + data);
         //Debug.Log("The person who sent this was " + c.clientName);
         string[] aData = data.Split('|');
 
@@ -150,7 +151,7 @@ public class Server : MonoBehaviour {
             case "CWHO":
                 c.clientName = aData[1];
                 c.isHost = (aData[2] == "0") ? false : true;
-                print("c.isHost = " + c.isHost);
+                //print("c.isHost = " + c.isHost);
                 Broadcast("SCNN|" + c.clientName, clients);
 
                 break;
